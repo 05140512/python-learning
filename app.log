@@ -1,0 +1,17 @@
+2026-05-21 10:45:23,940 | models.user | DEBUG | user调试信息
+2026-05-21 10:45:23,941 | models.user | INFO | user普通信息
+2026-05-21 10:45:23,941 | models.user | WARNING | user警告信息
+2026-05-21 10:45:23,941 | models.user | ERROR | user错误信息
+2026-05-21 10:45:23,941 | models.user | CRITICAL | user严重错误信息
+2026-05-21 11:16:24,788 | services.device_service | INFO | PLC-1 connected
+2026-05-21 11:16:24,788 | models.user | DEBUG | user调试信息
+2026-05-21 11:16:24,788 | models.user | INFO | user普通信息
+2026-05-21 11:16:24,788 | models.user | WARNING | user警告信息
+2026-05-21 11:16:24,788 | models.user | ERROR | user错误信息
+2026-05-21 11:16:24,788 | models.user | CRITICAL | user严重错误信息
+2026-06-03 17:38:43,477 | services.device_service | INFO | PLC-1 connected
+2026-06-03 17:38:43,478 | models.user | DEBUG | user调试信息
+2026-06-03 17:38:43,478 | models.user | INFO | user普通信息
+2026-06-03 17:38:43,478 | models.user | WARNING | user警告信息
+2026-06-03 17:38:43,478 | models.user | ERROR | user错误信息
+2026-06-03 17:38:43,478 | models.user | CRITICAL | user严重错误信息
